@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.shimada</groupId>
-	<artifactId>security-service</artifactId>
+	<artifactId>security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>security-service</name>
 	<description>Demo project for Spring Boot</description>
