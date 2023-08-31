@@ -10,4 +10,5 @@ class SecurityServiceApplicationTests {
 	void contextLoads() {
 	}
 
+
 }
